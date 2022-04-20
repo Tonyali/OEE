@@ -1,0 +1,9 @@
+- D:\ahmet çalışma yoluna gidiyoruz.
+- " OEE " klasörünü açıyoruz.
+- React arayüz kısmını açmak için, 
+  - "oeeoperator" klasörüne girip; 
+	ya komut istemcisinden ya da klasör içine VsCode ile birlikte açıp "npm start" komutunu çalıştırıyoruz.
+  - aynı dizinde (D:\ahmet çalışma\OEE\oeeoperator) "backend" klasörüne girip "node index.js" komutunu çalıştırıyoruz.
+
+- iki geri gelip D:\ahmet çalışma\OEE dizininde ki "oeeUretim" klasörüne giriyoruz ve "node index.js" komutunu çalıştırıyoruz.
+- tekrar geri gelip D:\ahmet çalışma\OEE dizininde ki "oeeUretimYaz" klasörüne girip "node uretimYaz.js" komutunu çalıştırıyoruz.
